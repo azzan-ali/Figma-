@@ -1,0 +1,244 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.azzan-10{
+    width: 49px;
+    margin-left: 149px;
+    margin-top: 14px;
+}
+.azzan{
+    display: flex;
+    align-items: center;
+
+}
+.navbar{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-top: 17px;
+}
+
+a{  
+    padding-left: 33px;
+    text-decoration: none;
+    color: black;
+    font-family: "Poppins";
+    font-size: 16px;
+    align-items: center;
+ 
+}
+.btn-1{
+    width: 80px;
+    height: 34px;
+    margin-left: 120px;
+    align-items: center;
+    border-radius: 10px;
+    border: none;
+ background-color: rgb(47, 96, 255);
+ color: white;
+ }
+ .b{
+     display: flex;
+     align-items: center;
+ 
+ }
+ .box{
+    background-color: rgb(192, 224, 245);
+    width: 740px;
+    height: 230px;
+    display: flex;
+    margin-left: 160px;
+    margin-top: 19px;
+    border-radius: 10px;
+    align-items: center;
+ 
+ }
+ .global{
+    font-family: "Poppins";
+    margin-left: 10px;
+ }
+.mango{
+    font-size: 30px;
+    margin-left: 39px;
+    font-weight: 600;
+}
+.van{
+    font-size: 12px;
+    position: relative;
+    bottom: 10px;
+    left: 41px;
+}
+.btn-40{
+  height: 34px;
+  width: 90px;
+  margin-left: 37px;
+  position: relative;
+  bottom: 10px;
+  justify-content: center;
+  border: none;
+  background-color: rgb(47, 96, 255);
+  border-radius: 8px;
+  color: white;
+}
+.place{
+    height: 160px;
+  margin-left: 100px;
+}
+span{
+    margin-left: 10px;
+}
+.jal{
+    margin-left: 499px;
+    position: relative;
+    bottom: 240px;
+    font-family: "Poppins";
+    font-size: 14px;
+
+}
+.container{
+    background-color: a;
+}
+.manbo-10{
+    font-weight: 600;
+    font-size: 24px;
+ 
+}
+.kal{
+    width: 330px;
+    margin-top: 60px;
+    margin-left: 170px;
+ 
+}
+.ull{
+    font-size: 11px;
+  font-weight: 300;
+}
+.dell{
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(47, 96, 255);
+    width: 80px;
+    height: 34px;
+    color: white;
+    margin-top: 17px;
+}
+
+.box-2{
+    position: relative;
+ bottom: 180px;
+ left: 440px;
+}
+.kala{
+    font-weight: 500;
+    font-family: "Poppins";  
+    font-size: 28px;   
+}
+.laptop{
+ background-color: #abddff;
+    width: 220px;
+    height: 260px;
+  align-items: center;
+    justify-content: center;
+    position:relative;
+right: 160px;
+font-family: "Poppins";
+border-radius: 7px;
+}
+.pll{
+    width: 210px;
+    height: 200px;
+  position: relative;
+  bottom: 34px;
+
+
+}
+.tble{
+    display: flex;
+    font-weight: 500;
+margin-left: 39px;
+margin-top: 20px;
+    font-size: 16px;
+}
+.link{
+    font-size: 10px;
+    margin-left: 39px;
+    position: relative;
+    bottom: 11px;
+}
+.main-plp{
+position: relative;
+bottom: 100px;
+
+font-family: "Poppins";
+font-size: 13px;
+
+
+}
+.img{
+    display: flex;
+    margin-left: 34px;
+  position: relative;
+  bottom: 10px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(11, 79, 227);
+width:90px;
+height: 30px;
+align-items: center;
+justify-content: center;
+color: white;
+}
+
+.mango-9{
+    background-color: #abddff;
+    width: 220px;
+    height: 260px;
+  align-items: center;
+    justify-content: center;
+    position:relative;
+left: 240px;
+bottom: 359px;
+
+font-family: "Poppins";
+border-radius: 7px;
+}
+.display{
+    position: relative;
+    bottom: 99px;
+    
+}
+.img{
+    font-size: 10px;
+}
+.camel{
+    background-color: rgb(40, 66, 235);
+    width: 490px;
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+  position: relative;
+  right: 243px;
+  top: 70px;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+}
+.icon{
+    padding-top : 10px;
+    margin-left: 197px;
+}
+.dam,.damo{
+    padding-left: 10px;
+}
+.damo{
+    border-radius: 300px;
+}
+.para-1{
+    font-size: 10px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+position: relative;
+right: 27px;
+bottom: 10px;
+}
